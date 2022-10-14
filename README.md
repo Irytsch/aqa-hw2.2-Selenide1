@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/agipfn5hf6jvejmu?svg=true)](https://ci.appveyor.com/project/Irytsch/aqa-hw2-2-selenide1)
